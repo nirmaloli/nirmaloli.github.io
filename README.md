@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🟢 CUSTOM TYPING ANIMATION -->
-<img src="https://demolab.com" alt="Typing SVG" />
+<img src="https://demolab.com" width="600" height="100" />
 
 <br />
 
