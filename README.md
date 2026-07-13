@@ -23,7 +23,7 @@ I am a Computer Engineering student at **Mid-Western University** from **Nepalgu
 
 * 🎓 **Education:** B.Engg in Computer Engineering (2018 - 2022) | Mid-Western University
 * 📍 **Location:** Muktipur, Nepalgunj, Banke, Nepal
-* 💬 **Get in Touch:** [nirmaloli8524@gmail.com](mailto:nirmaloli8524@gmail.com) | +977 9868921497
+* 💬 **Get in Touch:** [nirmaloli8524@gmail.com](mailto:nirmaloli8524@gmail.com) 
 
 ---
 
